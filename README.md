@@ -112,3 +112,10 @@
 - `BLYNK_AUTH_TOKEN`, `GAS_URL`, `FIXED_CHANNEL` (Gateway).
 - `STREAM_URL`, `BLYNK_TOKEN` (Proxy) and `SERVER_URL` (Dashboard).
 - Google Sheet URLs in both Gateway and Python detector.
+
+
+## Members
+นายธีธัช เจือณรงค์ฤทธิ์ 6733112021
+นายชยุต เอื้อนพคุณ 6733045621
+นายพีรวิชญ์ รัตนพิภพ 6733182921
+นายจีระยุทธ นาจาน 6733036021
