@@ -53,7 +53,7 @@
 - Adjust `SERVER_URL`/Blynk token in `src/App.jsx` if not using defaults.
 
 ## Hardware Wiring
-![pic](./sensor_diagram.jpg)
+![pic](./sensor_diagram.png)
 
 ### Sensor Node Pinout
 | Module / Signal     | ESP32 Pin | Notes                         |
