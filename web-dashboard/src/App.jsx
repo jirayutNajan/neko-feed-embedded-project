@@ -104,7 +104,7 @@ function App() {
         if (foodRes.ok) {
           const distanceCm = parseFloat(await foodRes.text())
           if(distanceCm !== 0) {
-            const tankDepth = 15
+            const tankDepth = 12
             let percentage = ((tankDepth - distanceCm) / tankDepth) * 100
             percentage = Math.min(Math.max(percentage, 0), 100)
             setFoodLevel(Math.round(percentage))
