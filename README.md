@@ -47,6 +47,7 @@
 - Model files must be in the same folder.
 
 ### Web Dashboard (`web-dashboard`)
+![pic](./dashboard_pic.png)
 - Polls Blynk every 2s: V1 water%, V3 humidity, V2 temperature, V5 food distance→percent, V6 vibration.
 - Feed button calls `SERVER_URL/feed` (respects cooldown) and listens to `SERVER_URL/time` SSE.
 - Shows camera via `SERVER_URL/stream`.
